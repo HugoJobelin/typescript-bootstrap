@@ -1,0 +1,19 @@
+{
+  "name": "typescript-bootstrap",
+  "version": "1.0.0",
+  "description": "AWA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoJobelin/typescript-bootstrap.git"
+  },
+  "author": "Hugo Jobelin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HugoJobelin/typescript-bootstrap/issues"
+  },
+  "homepage": "https://github.com/HugoJobelin/typescript-bootstrap#readme"
+}
